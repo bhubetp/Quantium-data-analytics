@@ -1,4 +1,4 @@
-# Quantium Retail Analytics Virtual Internship – Data Analysis Portfolio
+# Quantium Retail Analytics Virtual Internship – Data Analysis (Python)
 
 This repository showcases my completed work for **Quantium's Retail Strategy & Analytics Virtual Experience** hosted on the Forage platform. The project focuses on analysing customer purchasing behaviour and assessing the impact of a chip category trial across selected stores.
 
